@@ -1,2 +1,2 @@
 # applikationsutveckling
-Applikationsutveckling DT142G HT2023
+Applikationsutveckling i Java DT142G HT2023
